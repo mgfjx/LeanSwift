@@ -7,14 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC2011101E63C6050034AE1E /* WelcomePageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC20110F1E63C6050034AE1E /* WelcomePageView.swift */; };
+		EC2011171E63EF6A0034AE1E /* paper0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC2011131E63EF6A0034AE1E /* paper0.jpg */; };
+		EC2011181E63EF6A0034AE1E /* paper1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC2011141E63EF6A0034AE1E /* paper1.jpg */; };
+		EC2011191E63EF6A0034AE1E /* paper2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC2011151E63EF6A0034AE1E /* paper2.jpg */; };
+		EC20111A1E63EF6A0034AE1E /* paper3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC2011161E63EF6A0034AE1E /* paper3.jpg */; };
+		EC4D9EBF1E5AB89F000FE8F4 /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4D9EBE1E5AB89F000FE8F4 /* UIViewExtension.swift */; };
+		EC4D9EC41E5AD204000FE8F4 /* AutoScrollLable.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4D9EC31E5AD204000FE8F4 /* AutoScrollLable.swift */; };
 		EC56F9A61E51342500FD7617 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC56F9A51E51342500FD7617 /* AppDelegate.swift */; };
 		EC56F9A81E51342500FD7617 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC56F9A71E51342500FD7617 /* ViewController.swift */; };
 		EC56F9AB1E51342500FD7617 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC56F9A91E51342500FD7617 /* Main.storyboard */; };
 		EC56F9AD1E51342500FD7617 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC56F9AC1E51342500FD7617 /* Assets.xcassets */; };
 		EC56F9B01E51342500FD7617 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC56F9AE1E51342500FD7617 /* LaunchScreen.storyboard */; };
+		EC56F9B81E51348800FD7617 /* CustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC56F9B71E51348800FD7617 /* CustomViewController.swift */; };
+		EC56F9BA1E51486F00FD7617 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC56F9B91E51486F00FD7617 /* CustomTableViewCell.swift */; };
+		EC56F9BC1E515EA400FD7617 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC56F9BB1E515EA400FD7617 /* 5.jpg */; };
+		EC56F9BE1E515EE100FD7617 /* 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = EC56F9BD1E515EE100FD7617 /* 3.gif */; };
+		EC56F9C01E51781F00FD7617 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC56F9BF1E51781F00FD7617 /* Model.swift */; };
+		EC56F9C21E5179ED00FD7617 /* ImageScanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC56F9C11E5179ED00FD7617 /* ImageScanView.swift */; };
+		EC695E841E54586200C14E67 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC695E831E54586200C14E67 /* ColorExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC20110F1E63C6050034AE1E /* WelcomePageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomePageView.swift; sourceTree = "<group>"; };
+		EC2011131E63EF6A0034AE1E /* paper0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = paper0.jpg; sourceTree = "<group>"; };
+		EC2011141E63EF6A0034AE1E /* paper1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = paper1.jpg; sourceTree = "<group>"; };
+		EC2011151E63EF6A0034AE1E /* paper2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = paper2.jpg; sourceTree = "<group>"; };
+		EC2011161E63EF6A0034AE1E /* paper3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = paper3.jpg; sourceTree = "<group>"; };
+		EC4D9EB81E5A867F000FE8F4 /* SwiftLearn-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SwiftLearn-Bridging-Header.h"; sourceTree = "<group>"; };
+		EC4D9EBE1E5AB89F000FE8F4 /* UIViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
+		EC4D9EC31E5AD204000FE8F4 /* AutoScrollLable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AutoScrollLable.swift; sourceTree = "<group>"; };
 		EC56F9A21E51342500FD7617 /* SwiftLearn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLearn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC56F9A51E51342500FD7617 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EC56F9A71E51342500FD7617 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +44,13 @@
 		EC56F9AC1E51342500FD7617 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC56F9AF1E51342500FD7617 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC56F9B11E51342500FD7617 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC56F9B71E51348800FD7617 /* CustomViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomViewController.swift; sourceTree = "<group>"; };
+		EC56F9B91E51486F00FD7617 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
+		EC56F9BB1E515EA400FD7617 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		EC56F9BD1E515EE100FD7617 /* 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 3.gif; sourceTree = "<group>"; };
+		EC56F9BF1E51781F00FD7617 /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		EC56F9C11E5179ED00FD7617 /* ImageScanView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageScanView.swift; sourceTree = "<group>"; };
+		EC695E831E54586200C14E67 /* ColorExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +64,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EC2011121E63EE970034AE1E /* source */ = {
+			isa = PBXGroup;
+			children = (
+				EC2011131E63EF6A0034AE1E /* paper0.jpg */,
+				EC2011141E63EF6A0034AE1E /* paper1.jpg */,
+				EC2011151E63EF6A0034AE1E /* paper2.jpg */,
+				EC2011161E63EF6A0034AE1E /* paper3.jpg */,
+			);
+			path = source;
+			sourceTree = "<group>";
+		};
 		EC56F9991E51342500FD7617 = {
 			isa = PBXGroup;
 			children = (
@@ -56,9 +96,21 @@
 			children = (
 				EC56F9A51E51342500FD7617 /* AppDelegate.swift */,
 				EC56F9A71E51342500FD7617 /* ViewController.swift */,
+				EC56F9B71E51348800FD7617 /* CustomViewController.swift */,
+				EC56F9B91E51486F00FD7617 /* CustomTableViewCell.swift */,
+				EC56F9C11E5179ED00FD7617 /* ImageScanView.swift */,
+				EC56F9BF1E51781F00FD7617 /* Model.swift */,
+				EC695E831E54586200C14E67 /* ColorExtension.swift */,
+				EC4D9EBE1E5AB89F000FE8F4 /* UIViewExtension.swift */,
+				EC4D9EC31E5AD204000FE8F4 /* AutoScrollLable.swift */,
+				EC20110F1E63C6050034AE1E /* WelcomePageView.swift */,
+				EC56F9BD1E515EE100FD7617 /* 3.gif */,
+				EC56F9BB1E515EA400FD7617 /* 5.jpg */,
+				EC2011121E63EE970034AE1E /* source */,
 				EC56F9A91E51342500FD7617 /* Main.storyboard */,
 				EC56F9AC1E51342500FD7617 /* Assets.xcassets */,
 				EC56F9AE1E51342500FD7617 /* LaunchScreen.storyboard */,
+				EC4D9EB81E5A867F000FE8F4 /* SwiftLearn-Bridging-Header.h */,
 				EC56F9B11E51342500FD7617 /* Info.plist */,
 			);
 			path = SwiftLearn;
@@ -97,6 +149,7 @@
 					EC56F9A11E51342500FD7617 = {
 						CreatedOnToolsVersion = 8.0;
 						DevelopmentTeam = 4H95452AGN;
+						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -125,8 +178,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC56F9B01E51342500FD7617 /* LaunchScreen.storyboard in Resources */,
+				EC20111A1E63EF6A0034AE1E /* paper3.jpg in Resources */,
+				EC2011171E63EF6A0034AE1E /* paper0.jpg in Resources */,
+				EC56F9BC1E515EA400FD7617 /* 5.jpg in Resources */,
+				EC2011191E63EF6A0034AE1E /* paper2.jpg in Resources */,
+				EC2011181E63EF6A0034AE1E /* paper1.jpg in Resources */,
 				EC56F9AD1E51342500FD7617 /* Assets.xcassets in Resources */,
 				EC56F9AB1E51342500FD7617 /* Main.storyboard in Resources */,
+				EC56F9BE1E515EE100FD7617 /* 3.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +196,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC56F9C01E51781F00FD7617 /* Model.swift in Sources */,
+				EC56F9B81E51348800FD7617 /* CustomViewController.swift in Sources */,
 				EC56F9A81E51342500FD7617 /* ViewController.swift in Sources */,
+				EC56F9C21E5179ED00FD7617 /* ImageScanView.swift in Sources */,
+				EC2011101E63C6050034AE1E /* WelcomePageView.swift in Sources */,
+				EC56F9BA1E51486F00FD7617 /* CustomTableViewCell.swift in Sources */,
+				EC695E841E54586200C14E67 /* ColorExtension.swift in Sources */,
+				EC4D9EBF1E5AB89F000FE8F4 /* UIViewExtension.swift in Sources */,
 				EC56F9A61E51342500FD7617 /* AppDelegate.swift in Sources */,
+				EC4D9EC41E5AD204000FE8F4 /* AutoScrollLable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,11 +328,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 4H95452AGN;
 				INFOPLIST_FILE = SwiftLearn/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.xiexiaolong.SwiftLearn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "SwiftLearn/SwiftLearn-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -274,11 +345,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = 4H95452AGN;
 				INFOPLIST_FILE = SwiftLearn/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.xiexiaolong.SwiftLearn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "SwiftLearn/SwiftLearn-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -302,6 +376,7 @@
 				EC56F9B61E51342500FD7617 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
